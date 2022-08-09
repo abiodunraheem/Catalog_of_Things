@@ -87,6 +87,7 @@ class MovieController
       source: movie.source.name,
       genre: movie.genre.name,
       author_fname: movie.author.first_name,
+      author_lname: movie.author.last_name
     }
     all_movies.push(temp_movie)
 
