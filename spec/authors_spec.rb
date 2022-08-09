@@ -13,7 +13,7 @@ describe Author do
   end
   context 'When retrieving the first name of an author' do
     it 'returns the correct first name' do
-      expected_value = 'Drogba'
+      expected_value = 'Dudu'
       expect(@author.first_name).to eq(expected_value)
     end
   end
