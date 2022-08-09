@@ -60,6 +60,8 @@ Have fun with Our catalog of things!
 
 👤 **Aladdin Alsaleem**
 
+👤 **Pedro Marques**
+
 
 ## 🤝 Contributing
 
