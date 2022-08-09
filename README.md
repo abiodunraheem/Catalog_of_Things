@@ -58,7 +58,15 @@ Have fun with Our catalog of things!
 - Twitter: [@abiodunraheem23](https://twitter.com/abiodunraheem23)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abiodun-raheem)
 
+👤 **Pedro Marques**
+
+- GitHub: https://github.com/ppmarq1
+- Twitter: https://twitter.com/ppmarq1
+- LinkedIn: https://br.linkedin.com/in/pedroalmeidamarques/
+
 👤 **Aladdin Alsaleem**
+
+
 
 
 ## 🤝 Contributing
