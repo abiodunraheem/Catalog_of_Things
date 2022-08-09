@@ -14,7 +14,7 @@ describe Genre do
 
   describe '#name' do
     it 'Returns the correct name' do
-      @genres.name.should eql 'Raheem'
+      @genres.name.should eql 'Abiodun'
     end
   end
 
