@@ -5,7 +5,7 @@ class Movie < Item
 
   def initialize(publish_date, silet)
     super(publish_date)
-    @silet = silet
+    @silet = sile
   end
 
   def can_be_archived?
