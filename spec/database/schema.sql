@@ -9,3 +9,9 @@ CREATE TABLE IF NOT EXISTS musicalbum (
     PRIMARY KEY(id),
     CONSTRAINT genre_id_fk FOREIGN KEY(genre_id) REFERENCES genre(id),
 );
+
+CREATE TABLE IF NOT EXISTS genre (
+    id INT GENERATED ALWAYS AS IDENTITY,
+    name VARCHAR(80),
+    PRIMARY KEY(id)
+);
