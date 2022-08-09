@@ -6,6 +6,7 @@ CREATE TABLE authors (
     last_name VARCHAR(100) NOT NULL,
 );
 
+
 CREATE TABLE games (
     id INT PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
     author_id int,
