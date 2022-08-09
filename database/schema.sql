@@ -7,7 +7,7 @@ CREATE TABLE IF NOT EXISTS musicalbum (
     archived BOOLEAN NOT NULL,
     genre_id INT,
     PRIMARY KEY(id),
-    CONSTRAINT genre_id_fk FOREIGN KEY(genre_id) REFERENCES genre(id),
+    CONSTRAINT genre_id_fk FOREIGN KEY(genre_id) REFERENCES genre(id)
 );
 
 CREATE TABLE IF NOT EXISTS genre (
