@@ -1,4 +1,4 @@
-CREATE DATABASE catalog_of_things;
+CREATE DATABASE Catalog_of_Things;
 
 CREATE TABLE IF NOT EXISTS musicalbum (
     id INT GENERATED ALWAYS AS IDENTITY,
