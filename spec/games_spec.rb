@@ -1,5 +1,5 @@
-require '.game'
-require 'date'
+require './game'
+require '/date'
 
 describe Game do
   before :each do
