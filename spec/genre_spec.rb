@@ -3,7 +3,7 @@ require_relative '../musicAlbum/genre'
 describe Genre do
   before :each do
     @item = Item.new('2022-04-04')
-    @genres = Genre.new 'Abiodun'
+    @genres = Genre.new 'Nemwel'
   end
 
   describe '#new' do
@@ -14,7 +14,7 @@ describe Genre do
 
   describe '#name' do
     it 'Returns the correct name' do
-      @genres.name.should eql 'Abiodun'
+      @genres.name.should eql 'Nemwel'
     end
   end
 
