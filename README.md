@@ -2,7 +2,7 @@
 
 # catalog of things
 
-> This is a console application project that will help us to keep a record of different types of things we own namely: books, music albums, and games. The application allows you to perform **some** CRUD operations such as adding new items, reading the items that you have saved, and saving items to .json files.  
+> This is a console application project that will help us to keep a record of different types of things we own namely: books, music albums, and games. The application allows you to perform **some** CRUD operations such as adding new items, reading the items that you have saved, and saving items to .json files
 
 Enjoy!
 
