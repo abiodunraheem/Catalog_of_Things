@@ -1,4 +1,4 @@
-require_relative '../musicAlbum/genre'
+require_relative './genre'
 
 describe Genre do
   before :each do
