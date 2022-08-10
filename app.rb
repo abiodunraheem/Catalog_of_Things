@@ -1,7 +1,7 @@
 require_relative './book'
 require_relative './label'
 require_relative 'data/data_book'
-require_relative 'data/data_album'
+require_relative 'data/handle_data'
 require_relative './musicalbum'
 require_relative './genre'
 require_relative './music_controller'
