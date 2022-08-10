@@ -1,5 +1,5 @@
 require_relative './musicalbum'
-require_relative './handle_data'
+require_relative './data/handle_data'
 require_relative './genre'
 require 'json'
 
