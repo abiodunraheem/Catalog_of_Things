@@ -193,7 +193,7 @@ class App
   end
 
   def load_preserve_data
-    load_album_genre @albums, @genres
+    read_musics @albums, @genres
     load_books_and_labels @all_books, @all_labels
     load_manager @games, @authors
   end
