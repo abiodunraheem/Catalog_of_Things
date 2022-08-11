@@ -2,7 +2,7 @@
 # require_relative './game'
 # require_relative './author'
 
-# def load_manager(gamestore, authorstore) # rubocop:todo Metrics/MethodLength
+# def load_manager(gamestore, authorstore)
 #   storage = './data/games.json'
 #   if File.exist?(storage)
 #     file = File.open(storage)
