@@ -1,0 +1,16 @@
+[
+  {
+    "book_publisher": "Pedro",
+    "book_cover_state": "Good",
+    "book_label_title": "Gift",
+    "book_label_color": "Blue",
+    "book_publish_date": "11-07-2000"
+  },
+  {
+    "book_publisher": "Microsoft",
+    "book_cover_state": "Seatle",
+    "book_label_title": "The power",
+    "book_label_color": "Blue",
+    "book_publish_date": "2022-06-21"
+  }
+]
