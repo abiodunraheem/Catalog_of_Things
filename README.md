@@ -67,8 +67,10 @@ Have fun with Our catalog of things!
 - LinkedIn: https://br.linkedin.com/in/pedroalmeidamarques/
 
 👤 **Aladdin Alsaleem**
+- GitHub: [@AlaaAlsalem](https://github.com/AlaaAlsalem)
+- LinkedIn: [Aladdin](https://www.linkedin.com/in/aladdin-alsalem/)
 
-👤 **Pedro Marques**
+
 
 
 
