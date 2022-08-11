@@ -1,4 +1,4 @@
-require './book_spec.rblabel'
+require './label'
 require './book'
 
 describe Label do
