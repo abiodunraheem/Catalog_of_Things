@@ -2,11 +2,13 @@
 
 # catalog of things
 
-> This is a console application project that will help us to keep a record of different types of things we own namely: books, music albums, and games. The application allows you to perform **some** CRUD operations such as adding new items, reading the items that you have saved, and saving items to .json files.  
+> This is a console application project that will help us to keep a record of different types of things we own namely: books, music albums, and games. The application allows you to perform **some** CRUD operations such as adding new items, reading the items that you have saved, and saving items to .json files
 
 Enjoy!
 
 ![catalog_of_my_things](https://user-images.githubusercontent.com/98527559/182126086-fc6a58be-ce66-43cc-9a67-42ddf9633100.png)
+
+[Here is a video link of our presentation](https://drive.google.com/file/d/1SntVg8pTpxkGtaYet61JYgl_qVd4KNLz/view?usp=sharing)
 
 ## built with:
 
@@ -69,10 +71,6 @@ Have fun with Our catalog of things!
 👤 **Aladdin Alsaleem**
 - GitHub: [@AlaaAlsalem](https://github.com/AlaaAlsalem)
 - LinkedIn: [Aladdin](https://www.linkedin.com/in/aladdin-alsalem/)
-
-
-
-
 
 
 ## 🤝 Contributing

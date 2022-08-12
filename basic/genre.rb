@@ -1,5 +1,3 @@
-require_relative './musicalbum'
-
 class Genre
   attr_accessor :items, :name
 
@@ -10,7 +8,7 @@ class Genre
   end
 
   def add_item(item)
-    @items.push(item)
-    item.genre = self
+    @items << item
+    item.add_genre(self)
   end
 end
