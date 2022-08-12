@@ -1,4 +1,4 @@
-require '.basic/game'
+require './basic/game'
 require 'date'
 
 describe Game do

@@ -1,4 +1,4 @@
-require '.basic/author'
+require './basic/author'
 require '.basic/game'
 
 describe Author do
