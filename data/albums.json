@@ -10,5 +10,17 @@
     "name": "Queen",
     "genre": "Rock",
     "spotify": "y"
+  },
+  {
+    "published": "2020-08-23",
+    "name": "Abiodun",
+    "genre": "RnB",
+    "spotify": "Y"
+  },
+  {
+    "published": "2020-08-23",
+    "name": "AbiodunRaheem",
+    "genre": "RnB",
+    "spotify": "y"
   }
 ]
