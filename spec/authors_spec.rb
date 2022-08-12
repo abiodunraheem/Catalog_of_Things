@@ -1,5 +1,5 @@
 require './basic/author'
-require '.basic/game'
+require './basic/game'
 
 describe Author do
   before :all do
