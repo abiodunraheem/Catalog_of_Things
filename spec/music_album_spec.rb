@@ -1,6 +1,6 @@
 require 'json'
-require_relative './genre'
-require_relative './musicalbum'
+require_relative '.baic/genre'
+require_relative '.basic/musicalbum'
 require 'date'
 
 def load_album_genre(myalbum, mygenre)
