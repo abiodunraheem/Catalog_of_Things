@@ -1,4 +1,4 @@
-# require './basic/label'
+# require './spec/label'
 # require '.basic/book'
 
 # describe Label do
