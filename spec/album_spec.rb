@@ -1,4 +1,4 @@
-require './basic/musicalbum'
+require './basic/music_album'
 require 'date'
 
 describe MusicAlbum do

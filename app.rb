@@ -1,8 +1,8 @@
 require_relative 'basic/book'
 require_relative 'basic/label'
 require_relative 'data/data_book'
-require_relative 'data/music_album'
-require_relative 'basic/musicalbum'
+require_relative 'data/data_album'
+require_relative 'basic/music_album'
 require_relative 'basic/genre'
 require_relative 'basic/game'
 require_relative 'basic/author'
@@ -143,7 +143,7 @@ class App
 
     save_album(date, name, genre_name, on_spotify)
 
-    puts "#{name} has been added to the list. ✅"
+    puts "#{name} It has been added to the list. ✅"
   end
 
   def create_game

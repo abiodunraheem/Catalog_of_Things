@@ -1,4 +1,4 @@
-require './basic/genre'
+require './base/genre'
 
 describe Genre do
   it 'has a name' do
