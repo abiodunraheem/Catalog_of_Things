@@ -1,8 +1,8 @@
 require 'json'
-require './game'
-require './author'
+require '../basic/game'
+require '../basic/author'
 
-def load_manager(gamestore, authorstore)
+def load_manager(gamestore, authorstore) # rubocop:todo Metrics/MethodLength
   storage = './data/games.json'
   if File.exist?(storage)
     file = File.open(storage)

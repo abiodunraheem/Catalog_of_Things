@@ -1,26 +1,12 @@
 require './genre'
 
 describe Genre do
-  before :each do
-    @item = Item.new('2022-04-04')
-    @genres = Genre.new 'Abiodun'
+  it 'has a name' do
+    genre = Genre.new('Rock n Roll')
+    expect(genre.name).to eq('Rock n Roll')
   end
-
-  describe '#new' do
-    it 'Takes in one parameter and returns a Genre object' do
-      @genres.should be_an_instance_of Genre
-    end
-  end
-
-  describe '#name' do
-    it 'Returns the correct name' do
-      @genres.name.should eql 'Abiodun'
-    end
-  end
-
-  context 'Genre to return list of items' do
-    it 'Items should return empty array' do
-      expect(@genres.items.length).to eql 0
-    end
+  it 'returns the correct name' do
+    genre = Genre.new('Pop')
+    expect(genre.name).to eq('Pop')
   end
 end

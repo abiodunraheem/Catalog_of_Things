@@ -1,6 +1,6 @@
 require 'json'
-require './book'
-require './label'
+require '../basic/book'
+require '../basic/label'
 
 def load_books_and_labels(mybook, mylabel)
   if File.exist?('./data/books.json')

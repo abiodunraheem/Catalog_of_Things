@@ -1,12 +1,11 @@
-require_relative './book'
-require_relative './label'
+require_relative 'basic/book'
+require_relative 'basic/label'
 require_relative 'data/data_book'
-require_relative 'data/handle_data'
-require_relative './musicalbum'
-require_relative './genre'
-require_relative './music_controller'
-require_relative './game'
-require_relative './author'
+require_relative 'data/music_album'
+require_relative 'basic/musicalbum'
+require_relative 'basic/genre'
+require_relative 'basic/game'
+require_relative 'basic/author'
 require_relative 'data/game_data'
 require 'date'
 
@@ -193,7 +192,7 @@ class App
   end
 
   def load_preserve_data
-    read_musics @albums, @genres
+    load_album_genre @albums, @genres
     load_books_and_labels @all_books, @all_labels
     load_manager @games, @authors
   end
