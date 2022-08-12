@@ -1,5 +1,5 @@
 require './basic/label'
-require '.basic/book'
+require './basic/book'
 
 describe Label do
   before :each do
