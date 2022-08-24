@@ -8,8 +8,6 @@ Enjoy!
 
 ![catalog_of_my_things](https://user-images.githubusercontent.com/98527559/182126086-fc6a58be-ce66-43cc-9a67-42ddf9633100.png)
 
-[Here is a video link of our presentation](https://drive.google.com/file/d/1SntVg8pTpxkGtaYet61JYgl_qVd4KNLz/view?usp=sharing)
-
 ## built with:
 
 - Ruby
